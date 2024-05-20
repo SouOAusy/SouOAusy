@@ -15,12 +15,11 @@ Então, servidores grandes, estou aqui para oferecer meu talento e paixão ao se
 
 Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua comunidade Minecraft a novos patamares. Vamos fazer história neste vasto universo de blocos e aventuras! 
 
-
 <h3 align="center">Languages and Technologies</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -51,31 +50,8 @@ Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua c
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouOAusy&radius=16&theme=tokyo-night&area=true&order=5" height="100" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="center">My Social Media</h3>
-
-###
-
-<div align="left">
-  <a href="loteandobot" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/i.santow07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/736x/cf/84/d2/cf84d2be8fa65fd93767553d30a4f1a1.jpg"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="400" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouOAusy&radius=16&theme=tokyo-night&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
