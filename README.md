@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,mysql,java,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,mysql,java,idea)](https://skillicons.dev)
 
 
 
