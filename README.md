@@ -1,7 +1,7 @@
 ### Oi! Eu SouOAusy
 
 
-"Olá, mundo Minecraft! Sou Isaac Nunes, um apaixonado desenvolvedor de plugins há dois anos, mergulhando nas profundezas dos códigos para criar experiências únicas neste universo infinito. Desde os primeiros passos até os desafios mais complexos, cada linha de código foi um degrau na minha jornada de aprendizado e evolução.
+Olá, mundo Minecraft! Sou Isaac Nunes, um apaixonado desenvolvedor de plugins há dois anos, mergulhando nas profundezas dos códigos para criar experiências únicas neste universo infinito. Desde os primeiros passos até os desafios mais complexos, cada linha de código foi um degrau na minha jornada de aprendizado e evolução.
 
 Minha trajetória na criação de plugins para Minecraft me concedeu uma rica bagagem de experiências. Ao explorar as nuances do desenvolvimento, desde a criação de comandos simples até a elaboração de sistemas complexos, adquiri habilidades técnicas sólidas e uma compreensão profunda do ecossistema Minecraft.
 
