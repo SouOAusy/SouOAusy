@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on ...
 
 
-Linguagens e tecnologias que utilizo!\n
+Linguagens e tecnologias que utilizo!
+
+
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,mysql,java,idea)](https://skillicons.dev)
 
 
