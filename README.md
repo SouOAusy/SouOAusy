@@ -54,7 +54,3 @@ Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua c
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SouOAusy/SouOAusy/output/snake.svg" alt="Snake animation" />
-
-###
