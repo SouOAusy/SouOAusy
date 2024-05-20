@@ -50,8 +50,11 @@ Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua c
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="400" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouOAusy&radius=16&theme=tokyo-night&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SouOAusy/SouOAusy/output/snake.svg" alt="Snake animation" />
 
 ###
