@@ -16,21 +16,66 @@ Então, servidores grandes, estou aqui para oferecer meu talento e paixão ao se
 Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua comunidade Minecraft a novos patamares. Vamos fazer história neste vasto universo de blocos e aventuras! 
 
 
-### Linguagens e tecnologias que utilizo!
+<h3 align="center">Languages and Technologies</h3>
 
+###
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,mysql,java,idea)](https://skillicons.dev)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SouOAusy/SouOAusy/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Statistics of my profile</h3>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SouOAusy&radius=16&theme=tokyo-night&area=true&order=5" height="100" alt="activity-graph graph"  />
+</div>
 
+###
 
+<h3 align="center">My Social Media</h3>
 
+###
+
+<div align="left">
+  <a href="loteandobot" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/i.santow07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/736x/cf/84/d2/cf84d2be8fa65fd93767553d30a4f1a1.jpg"  />
+</div>
+
+###
