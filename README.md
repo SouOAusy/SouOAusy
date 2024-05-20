@@ -21,6 +21,15 @@ Isaac Nunes, à disposição para transformar ideias em realidade e elevar sua c
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,mysql,java,idea)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouOAusy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SouOAusy/SouOAusy/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
