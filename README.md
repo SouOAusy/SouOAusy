@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 
 </div>
-<img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 </div>
 
